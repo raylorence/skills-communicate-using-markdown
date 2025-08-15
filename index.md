@@ -3,3 +3,7 @@
 
 ![Image of Monday Left Me Broken Cat](https://i.imgflip.com/7p2ecu.jpg)
 
+
+``` Java
+String iAmHorny = "Yes, I am horny";
+```
