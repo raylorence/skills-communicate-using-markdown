@@ -7,3 +7,7 @@
 ``` Java
 String iAmHorny = "Yes, I am horny";
 ```
+
+- [x] Am I Horny?
+- [ ] Are you Horny?
+- [x] Sobrang Horny ko na talaga beh!
